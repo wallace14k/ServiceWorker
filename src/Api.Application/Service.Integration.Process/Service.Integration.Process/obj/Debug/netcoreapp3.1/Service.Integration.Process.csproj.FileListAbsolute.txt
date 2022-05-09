@@ -1,0 +1,10 @@
+C:\Users\wallace.paula\Desktop\projects\src\Api.Application\Service.Integration.Process\Service.Integration.Process\bin\Debug\netcoreapp3.1\Service.Integration.Process.deps.json
+C:\Users\wallace.paula\Desktop\projects\src\Api.Application\Service.Integration.Process\Service.Integration.Process\bin\Debug\netcoreapp3.1\Service.Integration.Process.dll
+C:\Users\wallace.paula\Desktop\projects\src\Api.Application\Service.Integration.Process\Service.Integration.Process\bin\Debug\netcoreapp3.1\Service.Integration.Process.pdb
+C:\Users\wallace.paula\Desktop\projects\src\Api.Application\Service.Integration.Process\Service.Integration.Process\obj\Debug\netcoreapp3.1\Service.Integration.Process.csproj.AssemblyReference.cache
+C:\Users\wallace.paula\Desktop\projects\src\Api.Application\Service.Integration.Process\Service.Integration.Process\obj\Debug\netcoreapp3.1\Service.Integration.Process.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wallace.paula\Desktop\projects\src\Api.Application\Service.Integration.Process\Service.Integration.Process\obj\Debug\netcoreapp3.1\Service.Integration.Process.AssemblyInfoInputs.cache
+C:\Users\wallace.paula\Desktop\projects\src\Api.Application\Service.Integration.Process\Service.Integration.Process\obj\Debug\netcoreapp3.1\Service.Integration.Process.AssemblyInfo.cs
+C:\Users\wallace.paula\Desktop\projects\src\Api.Application\Service.Integration.Process\Service.Integration.Process\obj\Debug\netcoreapp3.1\Service.Integration.Process.csproj.CoreCompileInputs.cache
+C:\Users\wallace.paula\Desktop\projects\src\Api.Application\Service.Integration.Process\Service.Integration.Process\obj\Debug\netcoreapp3.1\Service.Integration.Process.dll
+C:\Users\wallace.paula\Desktop\projects\src\Api.Application\Service.Integration.Process\Service.Integration.Process\obj\Debug\netcoreapp3.1\Service.Integration.Process.pdb
